@@ -9,7 +9,7 @@ I'm a data-savvy learner from Indonesia who enjoys problem-solving and learning 
 * 🐍 I love to work with python.
 * 🧠 I have a strong interest in the latest research and developments in data science, machine learning, and AI.
 * 📝 Sometimes I conduct my own side-projects and publish my findings as articles.
-* 💡 To learn more about me, check out my portfolio.<br>
+* 💡 To learn more about me, check out my [portfolio](https://lighterland.github.io/projects/).<br>
 
 Feel free to reach me out!
 
