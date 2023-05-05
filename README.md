@@ -19,6 +19,6 @@ Feel free to reach me out!
 
 <details>
   <summary><h4>Github Stats</h></summary>
-<img height="100em" src="https://github-readme-stats.vercel.app/api?username=lighterland&count_private=true&show_icons=true&title_color=19A7CE&icon_color=19A7CE&border_color=19A7CE&text_color=fef9ff&hide_title=true&theme=transparent"/>
-<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lighterland&layout=compact&show_icons=true&title_color=19A7CE&icon_color=19A7CE&border_color=19A7CE&text_color=fef9ff&hide_title=true&theme=transparent"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api?username=lighterland&count_private=true&show_icons=true&title_color=19A7CE&icon_color=19A7CE&border_color=19A7CE&text_color=fef9ff&hide_title=true&theme=transparent&rank_icon=github"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lighterland&layout=compact&show_icons=true&title_color=19A7CE&icon_color=19A7CE&border_color=19A7CE&text_color=fef9ff&hide_title=true&theme=transparent"/>
 </details>
