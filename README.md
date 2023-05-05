@@ -1,12 +1,10 @@
 
 ### Hello, I'm Erland! 👋
 
-I'm a data-savvy learner from Indonesia who's always hungry for new knowledge and loves solving problems.
-
+I'm a data-savvy learner from Indonesia who enjoys problem-solving and learning new things.
 
 #### Some quick highlights about me
 * 💻 I'm currently working on data analytics.
-* 📊 I use my skills to draw insights from data and help others understand their data better.
 * 🌱 I'm constantly learning and developing my skills in the field.
 * 🐍 I love to work with Python.
 * 🧠 I have a strong interest in the latest research and developments in data science, machine learning, and AI.
@@ -20,7 +18,7 @@ Feel free to reach me out!
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@barklight)
 
 <details>
-  <summary><H5>Github Stats</H3></summary>
+  <summary><h4>Github Stats</h></summary>
 <img src="https://github-readme-stats.vercel.app/api?username=lighterland&count_private=true&show_icons=true&title_color=19A7CE&bg_color=000000&icon_color=19A7CE&border_color=19A7CE&text_color=fef9ff&hide_title=true"/>
   
 </details>
